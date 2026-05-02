@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Grok Launcher</string>
+    <string name="grok_url">https://grok.com/</string>
+
+    <string name="menu_open">Öffnen</string>
+    <string name="menu_reload">Neu laden</string>
+    <string name="menu_open_in_browser">Im Browser öffnen</string>
+    <string name="menu_share">Teilen</string>
+    <string name="menu_about">Über die App</string>
+
+    <string name="state_opening">Öffne grok.com…</string>
+    <string name="state_ready">Bereit</string>
+    <string name="state_offline_title">Offline</string>
+    <string name="state_offline_body">Keine Internetverbindung. Bitte verbinde dich und versuche es erneut.</string>
+    <string name="state_error_title">Fehler</string>
+    <string name="state_error_body">Grok konnte nicht geöffnet werden.</string>
+    <string name="action_retry">Erneut versuchen</string>
+    <string name="action_open_webview">In-App WebView (Fallback)</string>
+    <string name="action_close">Schließen</string>
+
+    <string name="about_title">Über Grok Launcher</string>
+    <string name="about_body">Diese App ist ein sicherer Launcher für https://grok.com/ und nutzt bevorzugt Chrome Custom Tabs, damit bestehende Browser-Sessions und System-Login-Mechanismen verwendet werden.</string>
+</resources>
+
